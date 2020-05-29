@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  align-items: center;
+  background: #000;
+
+}
+nav h3 {
+    color:white;
+    padding:10px;
+    margin :10px;
+}
+
+ul {
+    margin-left: auto;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.link {
+    text-decoration: none;
+}
+li a {
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+li a:hover {
+  color: #fff;
+}
